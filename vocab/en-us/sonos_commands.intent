@@ -1,1 +1,3 @@
 sonos {command}
+tell sonos to {command}
+{command}
