@@ -1,1 +1,2 @@
-sonos set {speaker} ( | as (active | default))
+set {speaker} sonos to (active | default)
+set {speaker} to (active | default)
